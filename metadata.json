@@ -1,0 +1,5 @@
+{
+  "name": "GitSocial",
+  "description": "A GitHub-connected social platform enabling real-time chat, user following, and repository exploration.",
+  "requestFramePermissions": []
+}
